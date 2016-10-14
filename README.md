@@ -1,5 +1,4 @@
-# Tour-of-Heroes-Tutorial
-
+# TemplateCoreAngular
 Same as the repository Tour-of-Heroes with the difference that services are in a Controller (Web Api 2) with database connection (local).
 
 Tutorial Angular 2.
